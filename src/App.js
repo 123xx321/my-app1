@@ -12,7 +12,7 @@ function App() {
       <hr />
       <C02contador />
       <hr />
-      <C03componenteConCss />
+      <C03componenteConCss/>
       <hr />
       <EjemploDeEstado />
     </div>
